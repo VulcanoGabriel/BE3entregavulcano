@@ -1,0 +1,110 @@
+[
+  {
+    "title": "Televisor",
+    "description": "led 40",
+    "price": 10000,
+    "thumbnail": "http...",
+    "code": 20,
+    "stock": 300,
+    "id": 1
+  },
+  {
+    "title": "Heladera",
+    "description": "NoFrost",
+    "price": 20000,
+    "thumbnail": "http...",
+    "code": 35,
+    "stock": 450,
+    "id": 2
+  },
+  {
+    "title": "Notebook",
+    "description": "Intel",
+    "price": 7000,
+    "thumbnail": "http...",
+    "code": 47,
+    "stock": 800,
+    "id": 3
+  },
+  {
+    "title": "Celular",
+    "description": "Samsung",
+    "price": 400,
+    "thumbnail": "http...",
+    "code": 55,
+    "stock": 300,
+    "id": 4
+  },
+  {
+    "title": "Mouse",
+    "description": "RGB",
+    "price": 50,
+    "thumbnail": "http...",
+    "code": 66,
+    "stock": 70,
+    "id": 5
+  },
+  {
+    "title": "Ventilador",
+    "description": "100 WATTS",
+    "price": 350,
+    "thumbnail": "http...",
+    "code": 86,
+    "stock": 950,
+    "id": 6
+  },
+  {
+    "title": "Parlante",
+    "description": "Bluetooth",
+    "price": 500,
+    "thumbnail": "http...",
+    "code": 88,
+    "stock": 1000,
+    "id": 7
+  },
+  {
+    "title": "Monitor",
+    "description": "curvo",
+    "price": 725,
+    "thumbnail": "http...",
+    "code": 90,
+    "stock": 323,
+    "id": 8
+  },
+  {
+    "title": "Teclado",
+    "description": "RGB",
+    "price": 200,
+    "thumbnail": "http...",
+    "code": 92,
+    "stock": 750,
+    "id": 9
+  },
+  {
+    "title": "Cargador",
+    "description": "celular",
+    "price": 10,
+    "thumbnail": "http...",
+    "code": 93,
+    "stock": 345,
+    "id": 10
+  },
+  {
+    "title": "Luz",
+    "description": "tira RGB",
+    "price": 70,
+    "thumbnail": "http...",
+    "code": 95,
+    "stock": 201,
+    "id": 11
+  },
+  {
+    "title": "Televisor 2",
+    "description": "3D",
+    "price": 35000,
+    "thumbnail": "http...",
+    "code": 99,
+    "stock": 100,
+    "id": 12
+  }
+]
